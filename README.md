@@ -1,4 +1,3 @@
-<h1>Hey World!</h1>
 <h2>💫 About Me:</h2>
 🛠 I’m currently working on an AI Instagram bot that can post, chat, and act smart all by itself.<br>🤝 I’m looking to team up with people who enjoy building cool stuff with code.<br>🧠 I’m looking for help with making my bot smarter and doing more things on its own.<br>🌱 I’m currently learning Django, JavaScript, backend magic, and how to make AI do fun things.<br>💬 Ask me about bots, coding, or anything tech-related — I love talking geeky!<br>⚡ Fun fact: I talk to my code like it's alive — and sometimes it answers.
 
